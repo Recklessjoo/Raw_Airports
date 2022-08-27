@@ -18,6 +18,7 @@ beacons =
 	GV, S1.39659, E36.63790, 0, Ngong
 	TH, S1.50216, E37.02070, 0, Athi River
 	TV, S1.50344, E37.02120, 0, Athi River
+	OKRIT, S1.5655737,E37.51337, 0, Okrit
 
 [airport1]
 name = Nairobi Wilson Airport
@@ -25,7 +26,23 @@ code = HKNW
 runways =
 	rwy1, 07, S1.32485, E36.8063, 70.0, 4798, 0, 0, 5546
 	rwy2, 14, S1.31888, E36.8119, 134.0, 5052, 246, 0, 5517
-
+entrypoints=
+NO, S1.36590, E36.86410, 0, Nairobi
+EA, S1.26505, E36.86790, 0, Eastleigh
+NI, S1.33301, E36.90860, 0, Nairobi
+AL, S1.37608, E36.91910, 0, Embakasi
+NV, S1.29990, E36.95420, 0, Nairobi
+GG, S1.39038, E36.63790, 0, Ngong
+GV, S1.39659, E36.63790, 0, Ngong
+TH, S1.50216, E37.02070, 0, Athi River
+TV, S1.50344, E37.02120, 0, Athi River
+OKRIT, S1.5655737,E37.51337, 0, Okrit
+airlines =
+xlk, 4, c206/c208/dh8a/dh8b/dh8c, safarilink, nswe
+xak, 3, c208/dh6c/dh8a/dhc7, airkenya, nse
+exz, 4, b190/dh8a, flysax, nswe
+alw, 2, b190/dh8a, redcross, nw
+fdt, 1, e120, freecare, n
 [airport2]
 name = Jomo Kenyatta International Airport
 code = JK
